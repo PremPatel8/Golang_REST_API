@@ -1,6 +1,6 @@
 # Golang_REST_API
 
-> Simple RESTful API to create, read, update and delete books. Only in-memory database created so far
+> Simple RESTful API to create, read, update and delete books using in-memory database.
 
 ## Quick Start
 
